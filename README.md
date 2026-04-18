@@ -73,7 +73,6 @@
 
 - Email: rishi.garg@iitg.ac.in  
 - Alternate Email: rishigarg525@gmail.com  
-- GitHub: https://github.com/RISHI41221  
 - LinkedIn: https://linkedin.com/in/rishiigarg  
 - Codeforces: https://codeforces.com/profile/RISHI214
 - Leetcode: https://leetcode.com/u/zsVIMS8QlC/
