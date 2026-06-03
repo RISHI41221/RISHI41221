@@ -10,7 +10,7 @@
 - Undergraduate student at IIT Guwahati (2024–Present)  
 - Experienced in Machine Learning, Data Analysis, and Full-Stack Development  
 - Passionate about building scalable and data-driven applications  
-- Codeforces Max Rating: **1253 (Pupil)**  
+- Codeforces Max Rating: **1395 (Pupil)**  
 
 ---
 
